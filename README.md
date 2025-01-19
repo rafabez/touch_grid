@@ -10,6 +10,11 @@ Touch_Grid is an interactive web-based project that combines dynamic visual effe
 - **Spotlight Effect**: A radial gradient spotlight follows the interaction point.
 - **Sound Feedback**: Synthesized audio triggered by user interaction, powered by Tone.js.
 - **Responsive Design**: Automatically adjusts to fit any screen size.
+---
+
+## Live Demo
+
+Experience the project live: [Touch_Grid Demo](https://rafabeznos.com.br/fx/png_square_grid)
 
 ---
 
