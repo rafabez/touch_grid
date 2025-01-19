@@ -14,7 +14,7 @@ Touch_Grid is an interactive web-based project that combines dynamic visual effe
 
 ## Live Demo
 
-Experience the project live: [Touch_Grid Demo](https://rafabeznos.com.br/fx/png_square_grid)
+Experience the project live: [Touch_Grid Demo](https://rafabeznos.com.br/fx/touch_grid)
 
 ---
 
